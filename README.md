@@ -1,7 +1,7 @@
 # LeraningCpp
 Code generated during learning C ++  
 https://atcoder.jp/contests/apg4b  
-bits/std++.hを使うためにgccを用意
+bits/std++.hを使うためにgccを用意  
 デフォルトのg++ではコンパイルできない
 
 ## Homebrew
