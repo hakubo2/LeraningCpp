@@ -1,3 +1,3 @@
 # LeraningCpp
-Code generated during learning C ++　　
+Code generated during learning C ++  
 coutしーあうと
