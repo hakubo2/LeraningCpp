@@ -1,8 +1,8 @@
 # LeraningCpp
 Code generated during learning C ++  
 https://atcoder.jp/contests/apg4b  
-coutしーあうと 
-##Homebrew
+coutしーあうと
+# Homebrew
 Homebrewとは、Mac OSにおいて、プログラミング上必要となってくる
 パッケージをインストールしたりアンインストールしたり出来るシステムです。
 このようなものをパッケージ管理システムと呼びます。
