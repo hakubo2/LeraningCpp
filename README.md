@@ -1,7 +1,8 @@
 # LeraningCpp
 Code generated during learning C ++  
 https://atcoder.jp/contests/apg4b  
-coutしーあうと
+bits/std++.hを使うためにgccを用意
+
 ## Homebrew
 Mac OSにおいて、プログラミング上必要となってくる
 パッケージをインストールしたりアンインストールしたり出来るシステムです。
