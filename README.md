@@ -17,6 +17,9 @@ C++ の標準入力においては半角空白も改行も同列に区切り文�
 1. ~~goto~~
 2. ループ終了の判定用の変数(フラグ)を用意し、if文で毎回チェック(https://programming.pc-note.net/c/multipleloop.html)
 
+## bool型
+論理型でtrue or false
+
 ## Homebrew
 Mac OSにおいて、プログラミング上必要となってくる
 パッケージをインストールしたりアンインストールしたり出来るシステムです。
