@@ -2,10 +2,15 @@
 Code generated during learning C ++  
 https://atcoder.jp/contests/apg4b  
 bits/std++.hを使うためにgccを用意  
-デフォルトのClangではコンパイルできない
+デフォルトのClangではコンパイルできない  
+Atcoder beginners selectionを使用して勉強  
+https://atcoder.jp/contests/abs
 
 ### 計算量オーダー
 https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0
+
+### for文
+①カウンタ変数の宣言と初期化、②継続条件の指定、③カウンタ変数の増減、はそれぞれ省略可能
 
 ### イテレータ
 配列やmapなどのコンテナの各要素に対して順番に処理を行うときにイテレータを用いる  
