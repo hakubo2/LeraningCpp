@@ -4,7 +4,9 @@ https://atcoder.jp/contests/apg4b
 bits/std++.hを使うためにgccを用意  
 デフォルトのClangではコンパイルできない  
 Atcoder beginners selectionを使用して勉強  
-https://atcoder.jp/contests/abs
+https://atcoder.jp/contests/abs  
+広大アルゴリズム講義  
+https://momiji.hiroshima-u.ac.jp/syllabusHtml/2019_15_KA110001.html
 
 ### 計算量オーダー
 https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0
