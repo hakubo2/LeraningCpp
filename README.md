@@ -8,6 +8,9 @@ https://atcoder.jp/contests/abs
 広大アルゴリズム講義  
 https://momiji.hiroshima-u.ac.jp/syllabusHtml/2019_15_KA110001.html
 
+### 級数
+https://mathtrain.jp/sequencesum
+
 ### 計算量オーダー
 https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0
 
