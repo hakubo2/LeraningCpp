@@ -80,6 +80,12 @@ Mac OSにおいて、プログラミング上必要となってくる
 
 ### マークダウン表記
 1. インライン表示 shift+@
+2. シンタックスハイライト(C++)
+```cpp:test.cpp
+int main(){
+  printf();
+}
+```
 
 ### Visual Studio Code
 ### ワークスペース
