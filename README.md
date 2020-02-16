@@ -1,15 +1,18 @@
 # LeraningCpp
-Code generated during learning C ++  
+1. Code generated during learning C ++  
 https://atcoder.jp/contests/apg4b  
-bits/std++.hを使うためにgccを用意  
-デフォルトのClangではコンパイルできない  
-Atcoder beginners selectionを使用して勉強  
+2. bits/std++.hを使うためにgccを用意  
+3. デフォルトのClangではコンパイルできない  
+4. Atcoder beginners selectionを使用して勉強  
 https://atcoder.jp/contests/abs  
-広大アルゴリズム講義  
+5. 広大アルゴリズム講義  
 https://momiji.hiroshima-u.ac.jp/syllabusHtml/2019_15_KA110001.html
 
 ### AtCoder過去問
 https://kenkoooo.com/atcoder/#/table/
+
+### DP
+https://qiita.com/drken/items/a5e6fe22863b7992efdb
 
 ### 累積和
 https://qiita.com/drken/items/56a6b68edef8fc605821
@@ -31,9 +34,9 @@ substrメンバ関数:文字列を切り出す
 例: moji.at(i).size() vectorクラス→stringクラス
 
 ### イテレータ
-配列やmapなどのコンテナの各要素に対して順番に処理を行うときにイテレータを用いる  
-イテレータを変数に入れるときはautoを用いる  
-イテレータを用いると処理を一般化できることが多く，STLにおいて一連の要素に対して何かを行うような関数はイテレータを引数に取る形で実装されている  
+1. 配列やmapなどのコンテナの各要素に対して順番に処理を行うときにイテレータを用いる  
+2. イテレータを変数に入れるときはautoを用いる  
+3. イテレータを用いると処理を一般化できることが多く，STLにおいて一連の要素に対して何かを行うような関数はイテレータを引数に取る形で実装されている  
 
 ### STL関数
 Standard Template Library
@@ -62,14 +65,14 @@ https://qiita.com/ryu136/items/1cbeb860d4a2f056358a
 小数点以下は切り捨てされる
 
 ### sort
-大小関係が定められたたくさんのデータを、小さい順（昇順）あるいは大きい順（降順）に並べ替える関数  
-実装のアルゴリズムとしては、クイックソートの改良版であるイントロソート
+1. 大小関係が定められたたくさんのデータを、小さい順（昇順）あるいは大きい順（降順）に並べ替える関数  
+2. 実装のアルゴリズムとしては、クイックソートの改良版であるイントロソート
 
 ### Beginners selection解説
 https://qiita.com/drken/items/fd4e5e3630d0f5859067#5-過去問精選-10-問
 
 ### Homebrew
-Mac OSにおいて、プログラミング上必要となってくる
+`Mac OSにおいて、プログラミング上必要となってくる`
 パッケージをインストールしたりアンインストールしたり出来るシステムです。
 このようなものをパッケージ管理システムと呼びます。
 つまり、Homebrewを使えば、便利なアイテムのダウンロードが非常に簡単になってきます。
