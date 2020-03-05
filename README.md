@@ -41,6 +41,12 @@ substrメンバ関数:文字列を切り出す
 ### STL関数
 Standard Template Library
 
+### めぐる式２分探索法
+https://qiita.com/drken/items/97e37dd6143e33a64c8c
+
+### 蟻本(中級編)
+https://qiita.com/drken/items/2f56925972c1d34e05d8
+
 ### 'と"の違い
 string型を表すために" "で囲ったように、char型を表すためには' 'で囲います。
 
