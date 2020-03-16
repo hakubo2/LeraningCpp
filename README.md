@@ -8,6 +8,9 @@ https://atcoder.jp/contests/abs
 5. 広大アルゴリズム講義  
 https://momiji.hiroshima-u.ac.jp/syllabusHtml/2019_15_KA110001.html
 
+### 競技プログラミングにおけるC++のテンプレート
+https://github.com/kurokoji/.cpp-Template/wiki
+
 ### AtCoder過去問
 https://kenkoooo.com/atcoder/#/table/
 
